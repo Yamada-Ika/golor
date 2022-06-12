@@ -8,6 +8,7 @@ WIP
 
 ## Usage
 
+![golor](https://user-images.githubusercontent.com/73375669/173243466-9766e6e9-3561-4b23-bac0-a865a521ee76.png)
 
 ## Option
 
